@@ -20,7 +20,7 @@ Alle fünf Dateien aus der Tabelle oben müssen im **gleichen Ordner** liegen, z
 
 ### 2. Python installieren
 
-Das Programm braucht Python (Version 3.9 oder neuer).
+Das Programm braucht Python (Version 3.12). Andere Versionen können Fehler bei der Installation von Bibliotheken verursachen.
 
 - Download: <https://www.python.org/downloads/>
 - Bei der Installation unter Windows unbedingt das Häkchen **"Add Python to PATH"** setzen, sonst findet das Terminal Python später nicht.
