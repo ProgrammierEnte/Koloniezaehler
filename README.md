@@ -47,10 +47,10 @@ Im Terminal eingeben und Enter drücken (das ist nur einmal nötig und dauert ei
 pip install -r requirements.txt
 ```
 
-Wenn `pip` nicht gefunden wird, hilft stattdessen:
+Wenn `pip` nicht gefunden wird (oft bei Mac), hilft stattdessen:
 
 ```bash
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ### 5. Programm starten
